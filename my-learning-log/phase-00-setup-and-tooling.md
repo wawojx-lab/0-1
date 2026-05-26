@@ -200,6 +200,12 @@ git version 2.53.0.windows.3
 - **结果**：成功！在 my-first-project 文件夹中创建了 Git 仓库
 - **学生的理解**：`git init` 会让 Git 开始管理这个文件夹，所有版本历史都存在 .git 文件夹里
 
+### 练习 4：查看 Git 状态
+- **状态**：已完成 ✅
+- **目标**：理解 `git status` 的输出
+- **结果**：成功！看到了 "Untracked files: readme.txt"
+- **学生的理解**：`git status` 可以查看哪些文件被修改了、哪些文件还没被 Git 跟踪
+
 ---
 
 ## 老师的课后总结
