@@ -206,6 +206,12 @@ git version 2.53.0.windows.3
 - **结果**：成功！看到了 "Untracked files: readme.txt"
 - **学生的理解**：`git status` 可以查看哪些文件被修改了、哪些文件还没被 Git 跟踪
 
+### 练习 5：添加文件到暂存区
+- **状态**：已完成 ✅
+- **目标**：使用 `git add` 把文件放入暂存区
+- **结果**：成功！文件从 "Untracked" 变成了 "Changes to be committed"
+- **学生的理解**：`git add` 就像把作业放进"待提交"文件夹，准备正式提交
+
 ---
 
 ## 老师的课后总结
