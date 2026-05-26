@@ -194,6 +194,12 @@ git version 2.53.0.windows.3
 - **结果**：成功！配置了 user.name=kk, user.email=wawojx@gmail.com
 - **学生的理解**：Git 需要知道我是谁，这样每次提交代码都能记录作者
 
+### 练习 3：创建 Git 仓库
+- **状态**：已完成 ✅
+- **目标**：初始化一个新的 Git 仓库
+- **结果**：成功！在 my-first-project 文件夹中创建了 Git 仓库
+- **学生的理解**：`git init` 会让 Git 开始管理这个文件夹，所有版本历史都存在 .git 文件夹里
+
 ---
 
 ## 老师的课后总结
